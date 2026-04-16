@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.Tilemaps;
-public class tilemapdissabler : MonoBehaviour
+public class TilemapDisabler : MonoBehaviour
 {
     public void Awake()
     {

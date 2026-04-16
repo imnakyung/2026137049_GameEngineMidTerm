@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class Level_scripts : MonoBehaviour
+public class Level_object : MonoBehaviour
 {
     public string nextLevel;
 
